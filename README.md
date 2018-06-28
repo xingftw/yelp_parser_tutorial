@@ -12,4 +12,4 @@
   parsed_content = soup(url_content)
   container = parsed_content.find('script', {"type":"application/ld+json"})
   ```
-3. commit to github
+3. **BONUS** commit to this repo
